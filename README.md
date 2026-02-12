@@ -21,7 +21,7 @@
 - 🔭 Currently working on **Machine Learning & Computer Vision** projects
 - 🌱 Passionate about **Fraud Detection, Anomaly Detection & Railway Safety**
 - 🎯 Focused on building **real-world AI solutions**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **vjayapr1@asu.edu**
 
 ---
 
