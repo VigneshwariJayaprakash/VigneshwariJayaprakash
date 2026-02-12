@@ -1,10 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vigneshwari+Jayaprakash;Machine+Learning+Enthusiast;Python+Developer;Data+Science+%7C+AI+%7C+CV" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Vigneshwari Jayaprakash</h1>
+<h3 align="center">Machine Learning Enthusiast · Python Developer · Data Science | AI | Computer Vision</h3>
 
 <p align="center">
   <a href="https://VigneshwariJayaprakash.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0D7C4A?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,7 +20,7 @@
 - 🔭 Currently working on **Machine Learning & Computer Vision** projects
 - 🌱 Passionate about **Fraud Detection, Anomaly Detection & Railway Safety**
 - 🎯 Focused on building **real-world AI solutions**
-- 📫 Reach me at **vjayapr1@asu.edu**
+- 📫 Reach me at **your.email@example.com**
 
 ---
 
@@ -106,7 +105,7 @@ AI-powered railway track defect inspection system
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VigneshwariJayaprakash&color=2ECC71&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=VigneshwariJayaprakash&color=0D7C4A&style=for-the-badge" />
 </p>
 
 <p align="center">
