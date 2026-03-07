@@ -10,7 +10,7 @@
 
 ## About Me
 
-MS Data Science @ Arizona State University (GPA 4.0/4.0) · Applied ML & GenAI across domains from **$1B+ freight networks** to **state government cybersecurity** · Building production-ready AI systems through hands-on projects.
+**Aspiring Data Scientist · From $1B+ Freight Networks to State Government Cybersecurity · ML · GenAI**
 
 - 🎓 M.S. Data Science @ **Arizona State University** — GPA 4.0/4.0
 - 🏛️ Recently built a **GenAI conversational analytics platform** (LangGraph + RAG) for the NM Dept. of Information Technology — cutting cybersecurity incident retrieval time by **70%**
