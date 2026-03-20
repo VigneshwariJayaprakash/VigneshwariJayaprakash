@@ -1,5 +1,4 @@
 # Hi, I'm Vigneshwari Jayaprakash 👋
-
 **Data Scientist · ML Engineer · GenAI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B8A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://VigneshwariJayaprakash.github.io)
@@ -53,13 +52,11 @@
 
 | Project | Description | Stack | Highlights |
 |---|---|---|---|
+| 🔬 [Wafer Defect Classifier](https://github.com/VigneshwariJayaprakash/wafer-defect-classifier) | End-to-end ADC pipeline classifying 8 wafer defect patterns from 811K+ real wafer maps — with SHAP explainability, yield impact analysis, and production FastAPI serving | PyTorch · XGBoost · SHAP · FastAPI · Docker | 8 defect classes · CNN + ensemble · root cause mapping |
 | 🛡️ [SentinelRAG](https://github.com/VigneshwariJayaprakash/SentinelRAG) | Automated sanctions compliance screening against 18,700+ US government entities | LangChain · ChromaDB · Ollama · FastAPI · Streamlit | 99% recall · 100% precision · Zero hallucinations |
 | 🚂 [Railway Track Inspector](https://github.com/VigneshwariJayaprakash/railway-track-inspector) | AI-powered defect detection pipeline on 500+ hrs of track footage | PyTorch · YOLO11 · OpenCV · Docker · Streamlit | 92% accuracy · 40% less manual inspection |
 | 🔥 [Wildfire Detection](https://github.com/VigneshwariJayaprakash/Wildfire-detection) | Multimodal deep learning fusing RGB & thermal imagery via Vision Transformers | PyTorch · ViT · XAI | 98.6% accuracy · +20% precision |
 | 💳 [Fraud Risk Platform](https://github.com/VigneshwariJayaprakash/fraud-risk-platform) | Time-aware fraud detection pipeline with leakage-safe temporal modeling | XGBoost · SHAP · Scikit-learn | MCC 0.50 · 300K+ transactions |
-
----
-
 
 ---
 
