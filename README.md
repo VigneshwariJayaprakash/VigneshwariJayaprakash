@@ -37,7 +37,15 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square)
 ![ARIMA](https://img.shields.io/badge/ARIMA-2E86AB?style=flat-square)
+
+**Recommendation Systems**
+
+![ALS](https://img.shields.io/badge/ALS-5B2D8E?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS--ANN-0081CB?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LambdaRank-2E8B57?style=flat-square)
+![SentenceTransformers](https://img.shields.io/badge/Sentence_Transformers-FF6B35?style=flat-square)
 
 **MLOps & Engineering**
 
@@ -61,12 +69,16 @@
 
 | Project | Description | Stack | Highlights |
 |---|---|---|---|
+| 🛍️ [E-Commerce Hybrid Recommender System](https://github.com/VigneshwariJayaprakash/ecom-recommender) | Production-style two-stage recommendation pipeline on 700k+ Amazon Beauty reviews — ALS retrieval via FAISS + LightGBM ranking + Sentence Transformer cold start. Live FastAPI + Streamlit demo | ALS · FAISS · LightGBM · Sentence Transformers · FastAPI · Streamlit · MLflow · Docker | NDCG@10: 0.975 · 65ms P99 · Cold start solved · 99.999% sparse |
 | 🏭 [Agentic Supply Chain Demand Orchestrator](https://github.com/VigneshwariJayaprakash/agentic-supply-chain-orchestrator) | End-to-end ML forecasting + GenAI reasoning system for service parts demand planning over 46M+ real records (M5/Walmart dataset) — with NPI, reliability & service campaign signals | XGBoost · ARIMA · LangChain · ChromaDB · FastAPI · MLflow · Docker | 46M+ records · MAPE < 8% · Plain-English KPI queries · 35% faster analyst lookup |
 | 🛡️ [SentinelRAG](https://github.com/VigneshwariJayaprakash/SentinelRAG) | Agentic NLP compliance screening pipeline over 18,700+ US government sanctions entities — with deterministic audit trail and zero hallucinations | LangChain · ChromaDB · FastAPI · Streamlit · Docker · AWS | 99% recall · 100% precision · 40% latency reduction · 3x throughput |
 | 💳 [Fraud Risk Platform](https://github.com/VigneshwariJayaprakash/fraud-risk-platform) | Real-time multi-domain risk intelligence platform with leakage-safe temporal modeling and SHAP explainability dashboard | XGBoost · LSTM · PyTorch · SHAP · FastAPI · Streamlit | 94% recall · 590K+ transactions · 40% less manual review |
 | 🔬 [Wafer Defect Classifier](https://github.com/VigneshwariJayaprakash/wafer-defect-classifier) | End-to-end ADC pipeline classifying 8 wafer defect patterns from 811K+ real wafer maps — with SHAP explainability and production FastAPI serving | PyTorch · XGBoost · SHAP · FastAPI · Docker | 8 defect classes · CNN + ensemble · root cause mapping |
 | 🚂 [Railway Track Inspector](https://github.com/VigneshwariJayaprakash/railway-track-inspector) | AI-powered defect detection pipeline on 500+ hrs of track footage | PyTorch · YOLO11 · OpenCV · Docker · Streamlit | 92% accuracy · 40% less manual inspection |
-| 🔥 [Wildfire Detection](https://github.com/VigneshwariJayaprakash/Wildfire-detection) | Multimodal deep learning fusing RGB & thermal imagery via Vision Transformers | PyTorch · ViT · XAI | 98.6% accuracy · +20% precision |
+
+---
+
+## Career Highlights
 
 ---
 
