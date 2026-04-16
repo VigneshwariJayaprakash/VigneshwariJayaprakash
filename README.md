@@ -80,10 +80,6 @@
 
 ## Career Highlights
 
----
-
-## Career Highlights
-
 ```
 $1M+  saved via ML fraud detection @ BNSF Railway       → CFO Recognition
 $400K saved via predictive maintenance @ BNSF Railway   → 500+ locomotives
