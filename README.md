@@ -1,8 +1,6 @@
 # Hi, I'm Vigneshwari Jayaprakash 👋
 **Data Scientist · ML Engineer · GenAI · Agentic AI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B8A5A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://VigneshwariJayaprakash.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwari31)
 [![Email](https://img.shields.io/badge/Email-E74C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjayapr1@asu.edu)
 
 ---
