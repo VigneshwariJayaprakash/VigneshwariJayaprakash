@@ -12,8 +12,6 @@
 - 🎓 M.S. Data Science @ **Arizona State University** — GPA 4.0/4.0
 - 🤖 Building **Agentic AI systems** — LangGraph + RAG pipelines that reason over real financial and operational data
 - 🏛️ Built a **GenAI conversational analytics platform** (LangGraph + RAG) for the NM Dept. of Information Technology — cutting cybersecurity incident triage time by **70%**
-- 💰 Delivered **$5M+ in annual cost savings** via ML-powered fraud detection at BNSF Railway — recognized by the CFO
-- 🚂 Deployed **predictive maintenance models** for 500+ locomotives — saving $400K/year in emergency repair costs
 - 📍 Open to Agentic AI Engineer, ML Engineer & Data Scientist roles
 
 ---
@@ -79,8 +77,6 @@
 ## Career Highlights
 
 ```
-$1M+  saved via ML fraud detection @ BNSF Railway       → CFO Recognition
-$400K saved via predictive maintenance @ BNSF Railway   → 500+ locomotives
  70%  reduction in cybersecurity triage time @ NM DOIT  → CIO Recognition
  99%  recall on 18,700+ compliance entities             → SentinelRAG
  94%  recall on 590K+ fraud transactions                → Risk Platform
